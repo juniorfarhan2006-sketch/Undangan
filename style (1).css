@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f8f8f8;
+    text-align: center;
+}
+section{
+    padding: 40px20px;
+}
+.hero{
+    background: #bfa56a;
+    color: white;
+}
+h1, h2, h3{
+    margin: 10px 0;
+}
+a{
+    display: inline-block;
+    margin-top: 10px;
+    color: white;
+    background: #333;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+        
+    }
